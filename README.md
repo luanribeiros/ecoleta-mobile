@@ -1,4 +1,4 @@
-![Logomarca Ecoleta](./src/assets/images/logo.svg)
+![Logomarca Ecoleta](https://raw.githubusercontent.com/luanribeiros/ecoleta/master/src/assets/images/logo.svg?token=ADYW574VQY7MBPOGQYWRABS64ZQAS)
 
 [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
 
